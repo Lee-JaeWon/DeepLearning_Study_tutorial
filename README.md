@@ -3,5 +3,7 @@
 BoostCourse의 `파이토치로 시작하는 딥러닝 기초`와 `텐서플로우로 시작하는 딥러닝 기초`수업을 통한 스터디와 함께 기초를 다지기 위한 repository입니다.  
 
 ------------------------------------------------------------------------------------------
-## Lec01. 기본적인 Machine Learning 의 용어와 개념 설명  
+## Lec01. 기본적인 Machine Learning 의 용어와 개념 설명 (TensorFlow)   
+[Deep_Learning study Lec01 (TensorFlow) 포스팅](https://lee-jaewon.github.io/deep_learning_study/Lec01(TensorFlow)/)   
+
 
