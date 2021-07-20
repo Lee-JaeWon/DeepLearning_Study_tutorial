@@ -22,3 +22,7 @@ BoostCourse의 `파이토치로 시작하는 딥러닝 기초`와 `텐서플로�
 
 ### Lec04-2. Loading Data (Pytorch)   
 [Deep_Learning study Lec04-2 (pytorch) 포스팅](https://lee-jaewon.github.io/deep_learning_study/Lec04-2(Pytorch)/)   
+
+### Lec05. Logistic Regression/Classification  
+[Deep_Learning study Lec05 포스팅](https://lee-jaewon.github.io/deep_learning_study/Lec05/)  
+
