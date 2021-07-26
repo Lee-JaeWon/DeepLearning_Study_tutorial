@@ -28,3 +28,6 @@ BoostCourse의 `파이토치로 시작하는 딥러닝 기초`와 `텐서플로�
 
 ### Lec06. Softmax Regression 
 [Deep_Learning study Lec06 포스팅](https://lee-jaewon.github.io/deep_learning_study/Lec06/)   
+
+### Lec08. Perceptron & Backpropagation
+[Deep_Learning study Lec08 포스팅](https://lee-jaewon.github.io/deep_learning_study/Lec08/)  
