@@ -29,5 +29,38 @@ BoostCourse의 `파이토치로 시작하는 딥러닝 기초`와 `텐서플로�
 ### Lec06. Softmax Regression 
 [Deep_Learning study Lec06 포스팅](https://lee-jaewon.github.io/deep_learning_study/Lec06/)   
 
+### Lec07. MNIST  
+[Deep_Learning study Lec07 포스팅](https://lee-jaewon.github.io/deep_learning_study/MNIST/)
+
 ### Lec08. Perceptron & Backpropagation
 [Deep_Learning study Lec08 포스팅](https://lee-jaewon.github.io/deep_learning_study/Lec08/)  
+
+### Lec09. ReLU
+[Deep_Learning study Lec09-1 포스팅](https://lee-jaewon.github.io/deep_learning_study/Lec09-1/)  
+
+### Lec09-2. Weight Initialization[Include Pytorch Code]
+[Deep_Learning study Lec09-2 포스팅](https://lee-jaewon.github.io/deep_learning_study/Lec09-2/) 
+
+### Lec09-3. Dropout
+[Deep_Learning study Lec09-3 포스팅](https://lee-jaewon.github.io/deep_learning_study/Lec09-3/)
+
+### Lec09-4. Batch Normalization
+[Deep_Learning study Lec09-4 포스팅](https://lee-jaewon.github.io/deep_learning_study/Lec09-4/)
+
+### Lec10-1. Convolution
+[Deep_Learning study Lec10-1 포스팅](https://lee-jaewon.github.io/deep_learning_study/Lec10-1/)
+
+### Lec10-2. MNIST CNN
+[Deep_Learning study Lec10-2 포스팅](https://lee-jaewon.github.io/deep_learning_study/Lec10-2/)
+
+### Lec10-3. Visdom
+[Deep_Learning study Lec10-3 포스팅](https://lee-jaewon.github.io/deep_learning_study/Lec10-3/)
+
+### Lec10-4. Custom Dataset - ImageFolder
+[Deep_Learning study Lec10-4 포스팅](https://lee-jaewon.github.io/deep_learning_study/Lec10-4/)
+
+### Lec10-5. Advanced CNN
+[Deep_Learning study Lec10-5 포스팅](https://lee-jaewon.github.io/deep_learning_study/Lec10-5/)
+
+### Lec10-5. Advanced CNN - VGG
+[Deep_Learning study Lec10-5 포스팅](https://lee-jaewon.github.io/deep_learning_study/Lec10-5(VGG)/)
