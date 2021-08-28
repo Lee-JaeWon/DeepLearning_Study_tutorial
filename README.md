@@ -64,3 +64,7 @@ BoostCourse의 `파이토치로 시작하는 딥러닝 기초`와 `텐서플로�
 
 ### Lec10-5. Advanced CNN - VGG
 [Deep_Learning study Lec10-5 포스팅](https://lee-jaewon.github.io/deep_learning_study/Lec10-5(VGG)/)
+
+## Certifiaction
+<p align="center"><img src="/certificate_A20210828-503678 (1)_1.jpg" width="600px"></p> 
+<p align="center"><img src="/certificate_A20210828-503678 (1)_2.jpg" width="600px"></p> 
